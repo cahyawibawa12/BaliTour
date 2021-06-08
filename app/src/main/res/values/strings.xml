@@ -1,0 +1,287 @@
+<resources>
+    <string name="app_name">BaliTour</string>
+
+    <string-array name="wisata_alam">
+        <item>Air Terjun Leke-Leke</item>
+        <item>Air Terjun Tegenungan</item>
+        <item>Air Terjun Kanto Lampo</item>
+        <item>Air Terjun Sekumpul</item>
+        <item>Danau Batur</item>
+        <item>Danau Tamblingan</item>
+    </string-array>
+
+    <string-array name="deskripsi_alam">
+        <item>Air terjun ini berlokasi di Desa Mekarsari, Kecamatan Baturiti, Tabanan, Bali. Suasana alam yang asri, damai dan penuh ketenangan menyambut kedatangan anda di air terjun Leke-leke Tabanan.
+        </item>
+
+        <item>
+            Berada 33 kilometer dari Bandara I Gusti Ngurah Rai, tersembunyi sebuah air terjun yang indah. Air Terjun Tegenungan, sebuah air terjun yang tersembunyi di balik rimbunnya pepohonan. Air terjun ini merupakan aliran dari Tukad Petanu, yang mengalir langsung melewati batuan.
+        </item>
+        <item>
+            Air Terjun Kanto Lampo atau Kanto Lampo Waterfall merupakan sebuah air terjun yang berada di dataran rendah sehingga akses untuk menuju lokasi tak terlalu susah. lokasi air terjun ini dianggap suci oleh komunitas adat, karena dianggap tempat suci atau beji untuk Mendak Toya Ning.
+        </item>
+        <item>
+            Objek wisata air terjun Sekumpul saat ini adalah salah satu tempat rekreasi air terjun yang paling populer di wilayah Kabupaten Buleleleng. Pesona indah alam air terjun menjadi destinasi wisata selain pantai yang banyak dicari wisatawan saat liburan di pulau Dewata Bali.
+        </item>
+        <item>
+            Danau Batur berada di ketinggian 1.050 mdpl. Tepatnya berada di lereng Gunung Batur. Tidak heran jika tempat wisata tersebut menawarkan panorama alam yang indah. Pasalnya, danau tersebut dikelilingi oleh perbukitan dan pepohonan rindang yang masih. Selain itu, udaranya pun masih sejuk.
+        </item>
+        <item>
+            Danau Tamblingan Buleleng, menyuguhkan wisata alam yang memang bukan untuk komersil ataupun didesain modern seperti danau Beratan Bedugul yang sekarang menjadi destinasi wisata paling populer dan hits di wilayah Kabupaten Tabanan.
+        </item>
+    </string-array>
+
+    <string-array name="lokasi_alam">
+        <item>
+            https://www.google.co.id/maps/place/Air+Terjun+Leke+Leke/@-8.3643441,115.1951144,17z/data=!3m1!4b1!4m5!3m4!1s0x2dd220d6da4ff65d:0x7b898588ca3ea351!8m2!3d-8.3643494!4d115.1973031
+        </item>
+        <item>
+            https://www.google.co.id/maps/place/Tegenungan+Waterfall/@-8.5752338,115.2880942,17z/data=!3m1!4b1!4m5!3m4!1s0x2dd2161beebd0c61:0xc1ae79ddb8410c5e!8m2!3d-8.5752391!4d115.2902829
+        </item>
+        <item>
+            https://www.google.co.id/maps/place/Kanto+Lampo+Waterfall/@-8.5749691,115.2552632,13z/data=!4m9!1m2!2m1!1sAir+terjun+Kanto+Lampo!3m5!1s0x2dd217ff9adc01a1:0xea08b2e84ad7ab23!8m2!3d-8.5321467!4d115.3312237!15sChZBaXIgdGVyanVuIEthbnRvIExhbXBvWjAKFmFpciB0ZXJqdW4ga2FudG8gbGFtcG8iFmFpciB0ZXJqdW4ga2FudG8gbGFtcG-SARJ0b3VyaXN0X2F0dHJhY3Rpb26aASNDaFpEU1VoTk1HOW5TMFZKUTBGblNVTnhNbEJ0YkVKM0VBRQ
+        </item>
+        <item>
+            https://www.google.co.id/maps/place/Air+terjun+sekumpul/@-8.1823973,115.1682818,14z/data=!4m9!1m2!2m1!1s4.%09Air+Terjun+Sekumpul!3m5!1s0x2dd18f47c14ab827:0x7b2454668993efc3!8m2!3d-8.177718!4d115.1825865!15sChY0LglBaXIgVGVyanVuIFNla3VtcHVskgESdG91cmlzdF9hdHRyYWN0aW9u
+        </item>
+        <item>
+            https://www.google.co.id/maps/place/Danau+Batur/@-8.2549112,115.367373,13z/data=!3m1!4b1!4m5!3m4!1s0x2dd1f680e7f40cad:0x605760d5a99c0414!8m2!3d-8.258816!4d115.408195
+        </item>
+        <item>
+            https://www.google.co.id/maps/place/Danau+Tamblingan/@-8.2572552,115.0880221,15z/data=!3m1!4b1!4m5!3m4!1s0x2dd18602e5bdc255:0x29a7fd33142b9cd5!8m2!3d-8.2570585!4d115.0970101
+        </item>
+    </string-array>
+
+    <string-array name="video_alam">
+        <item>
+            https://www.youtube.com/watch?v=FoLvjGBmEys
+        </item>
+        <item>
+            https://www.youtube.com/watch?v=k-zeSyTKTxU
+        </item>
+        <item>
+            https://www.youtube.com/watch?v=ewZWmDld4Qw
+        </item>
+        <item>
+            https://www.youtube.com/watch?v=dio2VhWAM38
+        </item>
+        <item>
+            https://www.youtube.com/watch?v=kqjevIeHM6A
+        </item>
+        <item>
+            https://www.youtube.com/watch?v=ISE92CiM8_0
+        </item>
+    </string-array>
+
+/kuliner
+    <string-array name="wisata_kuliner">
+        <item>Ayam Betutu Gilimanuk</item>
+        <item>Ayam Betutu Liku</item>
+        <item>Babi Guling Pande Egi</item>
+        <item>Babi Guling Pan Ana</item>
+        <item>Babi Guling Jro Kawan</item>
+        <item>Babi Guling Slingsing</item>
+    </string-array>
+
+    <string-array name="deskripsi_kuliner">
+        <item>Ayam betutu gilimanuk merupakan salah satu restaurant yang menyediakan makanan khas bali. Ayam dan bebek yang disajikan dilumuri dengan bumbu khusus yang akan membuat para food travelers ingin mencicipi berulang kali.
+        </item>
+
+        <item>
+            Sama seperti ayam betutu Gilimanuk, ayam betutu liku menawarkan makanan khas Bali yang diincar oleh para wisatawan. Selaian ayam, pengunjung juga dapat membeli bebek dengan bumbu khas yang sama.
+        </item>
+        <item>
+            Babi guling merupakan makanan khas Bali yang paling diminati orang lokal maupun wisatawan. Babi guling terbuat dari anak babi betina atau jantan yang perutnya diberi isian bumbu genep (bumbu kuning khas Bali) dan sayur singkong.
+        </item>
+        <item>
+            Para pecinta nasi babi guling wajib banget nih mampir ke warung Babi Guling Pan Ana. Warung ini buka setiap hari  dengan menu daging babi gulingnya yang empuk, kulitnya kriukk krenyes banget, bumbunya pas, kuahnya mantep, worth to try!
+        </item>
+        <item>
+            Selama di Bali, Anda tidak akan kehabisan pilihan dalam mencari tempat makan nasi babi guling enak. Warung Babi Guling Jero Kawan Munggu menjadi salah satu rekomendasi kuliner babi guling favorit yang ada di Bali.
+        </item>
+        <item>
+            Babi Guling Selingsing memiliki ciri khas sendiri yakni nasi yang dicampur dengan bumbu babi guling dan juga dilengkapi sambal kelapa goreng. Seporsi Babi Guling lengkap dengan lawar merah ataupun putih, sayur daun singkong, sosis babi dan juga gorengan.
+        </item>
+    </string-array>
+
+    <string-array name="lokasi_kuliner">
+        <item>
+            https://www.google.co.id/maps/place/Wr.+Ayam+Betutu+Khas+Gilimanuk/@-8.6464698,115.1932758,17z/data=!3m1!4b1!4m5!3m4!1s0x2dd23f56acf62ac1:0x9f811e3f911719e9!8m2!3d-8.6464726!4d115.195453        </item>
+        <item>
+            https://www.google.co.id/maps/place/Warung+Liku+Nasi+Bali+-+Ayam+Betutu/@-8.6938747,115.1474635,12z/data=!4m9!1m2!2m1!1sAyam+Betutu+Liku!3m5!1s0x2dd240f1330666a7:0xd23b84731fcd109f!8m2!3d-8.674805!4d115.2300481!15sChBBeWFtIEJldHV0dSBMaWt1WiQKEGF5YW0gYmV0dXR1IGxpa3UiEGF5YW0gYmV0dXR1IGxpa3WSARNiYWxpbmVzZV9yZXN0YXVyYW50mgEkQ2hkRFNVaE5NRzluUzBWSlEwRm5TVU5WZWtwUGIzbDNSUkFC
+        </item>
+        <item>
+            https://www.google.co.id/maps/place/Warung+Babi+Guling+Pande+Egi/@-8.5269082,115.3227081,17z/data=!3m1!4b1!4m5!3m4!1s0x2dd216514e66ffe1:0x9469d9bb05940a59!8m2!3d-8.5269135!4d115.3248968        </item>
+        <item>
+            https://www.google.co.id/maps/place/Babi+Guling+Pan+Ana/@-8.6747751,115.2041836,17z/data=!3m1!4b1!4m5!3m4!1s0x2dd2419bc8034829:0xc2c662f854b22d7!8m2!3d-8.6747815!4d115.2063722        </item>
+        <item>
+            https://www.google.co.id/maps/place/Babi+Guling+Jero+Kawan/@-8.6135636,115.1278842,17z/data=!3m1!4b1!4m5!3m4!1s0x2dd239ad7b7aa043:0xfd5cfdf941950603!8m2!3d-8.613587!4d115.1300594        </item>
+        <item>
+            https://www.google.co.id/maps/place/Babi+Guling+Selingsing+Bu+Suci/@-8.6104119,115.1368978,17z/data=!3m1!4b1!4m5!3m4!1s0x2dd239095d2c0b15:0x4692fd98ed3ca840!8m2!3d-8.610419!4d115.1390879        </item>
+    </string-array>
+
+    <string-array name="video_kuliner">
+        <item>
+            https://www.youtube.com/watch?v=ZMgTH-t3cJY
+        </item>
+        <item>
+            https://www.youtube.com/watch?v=X-PRTOOPT78
+        </item>
+        <item>
+            https://www.youtube.com/watch?v=Ppc07uBES04
+        </item>
+        <item>
+            https://www.youtube.com/watch?v=tzKXXh2Tifk
+        </item>
+        <item>
+            https://www.youtube.com/watch?v=u30RaZ2O7GU
+        </item>
+        <item>
+            https://www.youtube.com/watch?v=dB545zmqJJY
+        </item>
+    </string-array>
+
+    /pura
+    <string-array name="wisata_pura">
+        <item>Pura Besakih</item>
+        <item>Pura Batukaru</item>
+        <item>Pura Batur</item>
+        <item>Pura Tanah Lot</item>
+        <item>Pura Uluwatu</item>
+        <item>Pura Lempuyang</item>
+    </string-array>
+
+    <string-array name="deskripsi_pura">
+        <item>Pura Besakih Bali terdiri dari 1 pusat Pura yang diberi nama Pura Penataran Agung Besakih dan terdapat 18 Pura pendamping yang berada di sekeliling dari Pura Penataran Agung Besakih. 1 buah Pura Basukian dan 17 pura lainnya. Pura Besakih di Bali merupakan lokasi pusat kegiatan keagamaan bagi umat Hindu Bali dan Pura Penataran Agung Besakih adalah Pura terbesar di wilayah Pura ini.
+        </item>
+
+        <item>
+            Pura Luhur Batu Kau berada pada ketinggian 833 M Dari permukaan laut. Menurut informasi pengempon pura, Pura Luhur batu kau ini memiliki luas lahan 2600 m2 termasuk laba pura. Status kepemilikan Pura Luhur Batu Kau / Karu ini merupakan milik dari Masyarakat Desa Pekraman Wongaya Gede, dan di kelola oleh Masyarakat Desa Pekraman Wongaya Gede.
+        </item>
+        <item>
+            Pura Ulun Danu Batur adalah Pura yang terletak di pulau Bali, Indonesia . Sebagai salah satu Pura Kahyangan Jagat, Pura Ulun Danu Batur adalah salah satu dari pura terpenting di Bali yang bertindak sebagai pemelihara harmoni dan stabilitas seluruh pulau.
+        </item>
+        <item>
+            Tanah Lot salah satu pura penting bagi umat Hindu Bali dan lokasi pura terletak di atas batu besar yang berada di lepas pantai. Pura Tanah Lot merupakan ikon pariwisata pulau Bali. Selain itu salah satu obyek wisata terkenal di pulau Bali yang wajib dikunjungi.
+        </item>
+        <item>
+            Pura Luhur Uluwatu salah satu obyek wisata Bali yang sangat terkenal. Letak dari pura Luhur Uluwatu berada di atas tebing tinggi dan pembaca dari atas tebing dapat melihat pemandangan samudra Hindia. Sebelum pengunjung dapat melihat pura Luhur Uluwatu, pengunjung harus melewati kawasan hutan.
+        </item>
+        <item>
+           Pura Lempuyang Luhur adalah salah satu candi tertua dan paling dihormati di Bali, Indonesia. Kuil ini sebenarnya adalah kumpulan beberapa candi di sepanjang jalur pendakian ke puncak.
+        </item>
+    </string-array>
+
+    <string-array name="lokasi_pura">
+        <item>
+            https://www.google.co.id/maps/place/Pura+Besakih/@-8.3743121,115.4487202,17z/data=!3m1!4b1!4m5!3m4!1s0x2dd21cbe3748b2b7:0xbfc39798cd1bb4a!8m2!3d-8.3743174!4d115.4509089
+        </item>
+        <item>
+            https://www.google.co.id/maps/place/Pura+Luhur+Batukau/@-8.3720022,115.1003916,17z/data=!3m1!4b1!4m5!3m4!1s0x2dd240a56f674049:0xce1977e67dd5fb85!8m2!3d-8.3720075!4d115.1025803
+        </item>
+        <item>
+            https://www.google.co.id/maps/place/Pura+Ulun+Danu+Batur/@-8.2547292,115.3336733,17z/data=!3m1!4b1!4m5!3m4!1s0x2dd1f461401d49df:0xeb400af193e0a6c2!8m2!3d-8.2547345!4d115.335862
+        </item>
+        <item>
+            https://www.google.co.id/maps/place/Tanah+Lot/@-8.6212065,115.0846145,17z/data=!4m5!3m4!1s0x2dd237824f71deab:0xcaabe270f7e34d69!8m2!3d-8.621166!4d115.0868565
+        </item>
+        <item>
+            https://www.google.co.id/maps/place/Pura+Luhur+Uluwatu/@-8.829354,115.0840778,18z/data=!3m1!4b1!4m5!3m4!1s0x2dd24ffc20cb8191:0xcb98d1ba7db0495!8m2!3d-8.8291432!4d115.0849069
+        </item>
+        <item>
+            https://www.google.co.id/maps/place/Lempuyang+Temple/@-8.3914359,115.6289615,17z/data=!3m1!4b1!4m5!3m4!1s0x2dd20745c3f7eb0b:0x4f4f3195601822ea!8m2!3d-8.3914188!4d115.6311546
+        </item>
+    </string-array>
+
+    <string-array name="video_pura">
+        <item>
+            https://www.youtube.com/watch?v=mRSHavCHLFE
+        </item>
+        <item>
+            https://www.youtube.com/watch?v=1_OaiQ0C71g
+        </item>
+        <item>
+            https://www.youtube.com/watch?v=r4UDjWUDOlc
+        </item>
+        <item>
+            https://www.youtube.com/watch?v=JWOctK-oTfc
+        </item>
+        <item>
+            https://www.youtube.com/watch?v=fFlEjpR-V64
+        </item>
+        <item>
+            https://www.youtube.com/watch?v=DYMQygfGVGI
+        </item>
+    </string-array>
+
+    /oleh-oleh
+    <string-array name="wisata_oleh">
+        <item>Pasar Seni Sukawati</item>
+        <item>Krishna Oleh-Oleh</item>
+        <item>Keranjang Bali</item>
+        <item>Discovery Shopping Mall Kuta</item>
+        <item>Joger Bali</item>
+        <item>Pasar Seni Kuta</item>
+    </string-array>
+
+    <string-array name="deskripsi_oleh">
+        <item>Pasar Seni Sukawati begitu terkenal tidak hanya wisatawan nusantara saja wisatawan mancanegara pun juga mengenal dengan baik pasar ini. Biasanya, mereka menjadikan objek wisata ini sebagai tujuan terakhir untuk membeli oleh-oleh. Ciri unik dari Pasar Sukawati ini adalah menjual produk dari berbagai macam seni dan kerajinan khas Bali paling lengkap.
+        </item>
+
+        <item>
+            Krisna oleh oleh pun di dirikan pada tahun 2007. Sejak Saat itu Krisna mulai berkembang menjadi pusat oleh oleh terbesar di Bali dan merambah keberbagai macam lini bisnis hingga memiliki total Krisna secara keseluruhan 31 outlet. Jumlah outlet oleh oleh krisna hingga yang terbaru ini berjumlah 7 outlet dan 3 Mini Outlet.
+        </item>
+        <item>
+            The Keranjang Bali mengusung konsep dengan “Bali dalam Satu Keranjang”. The Keranjang menghadirkan pengalaman berbelanja yang berbeda di satu tempat. Area perbelanjaan Keranjang menawarkan konsep pengalaman edukasi, hiburan, belanja, dan perjalanan dalam perpaduan kenyamanan tradisional dengan sentuhan modern.
+        </item>
+        <item>
+            Pusat perbelanjaan ini dulunya memiliki nama Centro Mall Bali. Namun, tidak diketahui pasti sebabnya mengapa saat ini menjadi Discovery Shopping Mall. Banyak sekali merk yang dijual mulai dari tradisional Bali hingga modern. Terdapat pula tempat kuliner yang terletak di dalam mall.
+        </item>
+        <item>
+            Nama Joger diambil dari nama pemiliknya sendiri yaitu bapak Joseph Theodorus Wulianadi yang digabung dengan nama sahabatnya Bapak Gerhard Seeger. Joger dikenal di kalangan wisatawan sebagai tempat membeli oleh-oleh khas pulau Bali. Terutama oleh-oleh baju kaos dengan kata-kata unik khas Joger. Selain keunikan kata-kata, produk Joger asli hanya dapat dibeli di toko Joger yang hanya ada di pulau Bali.
+        </item>
+        <item>
+            Pasar seni Kuta di Denpasar, Bali, menjadi salah satu tempat belanja favorit para wisatawan yang berlibur ke Pulau Bali. Di pasar ini wisatawan bisa memilih berbagai suvenir dan cenderamata khas Bali.
+        </item>
+    </string-array>
+
+    <string-array name="lokasi_oleh">
+        <item>
+            https://www.google.co.id/maps/place/Pasar+Seni+Sukawati/@-8.5965254,115.2804168,17z/data=!3m1!4b1!4m5!3m4!1s0x2dd23e28616c410d:0x960eaffe9f543e3c!8m2!3d-8.5965307!4d115.2826055        </item>
+        <item>
+            https://www.google.co.id/maps/place/Krisna+Oleh+Oleh+Bali+Bypass/@-8.7297444,115.177168,17z/data=!3m1!4b1!4m5!3m4!1s0x2dd246a8dd5d191d:0x4c374d4e1f2f781!8m2!3d-8.7297497!4d115.1793567        </item>
+        <item>
+            https://www.google.co.id/maps/place/The+Keranjang+Bali/@-8.7297444,115.177168,17z/data=!4m5!3m4!1s0x2dd246a87a7a7313:0xe0ebf60ebb8f4472!8m2!3d-8.7317559!4d115.1777792
+        </item>
+        <item>
+            https://www.google.co.id/maps/place/Discovery+Shopping+Mall,+Jalan+Kartika+Plaza,+Kuta,+Kabupaten+Badung,+Bali/@-8.7317506,115.1755905,17z/data=!4m5!3m4!1s0x2dd246a3c5a109a5:0x8fc4fb036e5763c9!8m2!3d-8.7291495!4d115.1681585
+        </item>
+        <item>
+           https://www.google.co.id/maps/place/Teman+Joger+Luwus/@-8.3873051,115.1927497,17z/data=!3m1!4b1!4m5!3m4!1s0x2dd2213678264397:0x923baa9f653bb55c!8m2!3d-8.3873104!4d115.1949384
+        </item>
+        <item>
+            https://www.google.co.id/maps/place/Pasar+Seni+Kuta/@-8.7086934,115.1666826,17z/data=!3m1!4b1!4m5!3m4!1s0x2dd246c3d781d943:0x2e22ae9bde5ddfd8!8m2!3d-8.7086907!4d115.1688697
+        </item>
+    </string-array>
+
+    <string-array name="video_oleh">
+        <item>
+            https://www.youtube.com/watch?v=CvhAQBlp36A
+        </item>
+        <item>
+            https://www.youtube.com/watch?v=wsOFqEV_kT4
+        </item>
+        <item>
+            https://www.youtube.com/watch?v=l3iY9li2Uzk
+        </item>
+        <item>
+            https://www.youtube.com/watch?v=sPS55h04_QQ
+        </item>
+        <item>
+            https://www.youtube.com/watch?v=ArQYRFJohrY
+        </item>
+        <item>
+            https://www.youtube.com/watch?v=9d-78Iz_dsw
+        </item>
+    </string-array>
+</resources>
